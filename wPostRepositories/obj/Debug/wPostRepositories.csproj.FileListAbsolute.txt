@@ -1,0 +1,11 @@
+D:\GlobalLogic\wPost\wPostRepositories\bin\Debug\wPostRepositories.dll
+D:\GlobalLogic\wPost\wPostRepositories\bin\Debug\wPostRepositories.pdb
+D:\GlobalLogic\wPost\wPostRepositories\obj\Debug\wPostRepositories.dll
+D:\GlobalLogic\wPost\wPostRepositories\obj\Debug\wPostRepositories.pdb
+D:\GlobalLogic\wPost\wPostRepositories\bin\Debug\wPostLayer.dll
+D:\GlobalLogic\wPost\wPostRepositories\bin\Debug\wPostLayer.pdb
+D:\GlobalLogic\wPost\wPostRepositories\obj\Debug\wPostRepositories.csprojResolveAssemblyReference.cache
+D:\GlobalLogic\wPost\wPostRepositories\bin\Debug\ServiceStack.Text.dll
+D:\GlobalLogic\wPost\wPostRepositories\bin\Debug\wPostEntities.dll
+D:\GlobalLogic\wPost\wPostRepositories\bin\Debug\ServiceStack.Text.xml
+D:\GlobalLogic\wPost\wPostRepositories\bin\Debug\wPostEntities.pdb

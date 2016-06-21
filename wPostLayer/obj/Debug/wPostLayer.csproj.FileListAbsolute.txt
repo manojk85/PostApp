@@ -1,0 +1,4 @@
+D:\GlobalLogic\wPost\wPostLayer\bin\Debug\wPostLayer.dll
+D:\GlobalLogic\wPost\wPostLayer\bin\Debug\wPostLayer.pdb
+D:\GlobalLogic\wPost\wPostLayer\obj\Debug\wPostLayer.dll
+D:\GlobalLogic\wPost\wPostLayer\obj\Debug\wPostLayer.pdb
